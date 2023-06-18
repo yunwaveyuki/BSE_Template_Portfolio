@@ -1,5 +1,5 @@
 # Smart Mirror
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+In this project, I designed and constructed a Smart Mirror using a Raspberry Pi 4. This ingenious device goes beyond a simple reflection; it delivers real-time updates on weather, news, reminders, and more, embedded subtly into the mirror's interface. As you explore my portfolio, imagine a mirror that doesn't just reflect your image, but also keeps you informed and organized, making your day a little bit smoother.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
