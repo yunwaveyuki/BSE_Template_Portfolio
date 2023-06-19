@@ -32,11 +32,11 @@ For your second milestone, explain what you've worked on since your previous mil
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # First Milestone
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+For my first milestone, I intended to set up the raspberry pi and the monitor.
+The Raspberry Pi 4 serves as the brain of the project, fetching and processing data from various sources. The monitor is the channel through which the Raspberry Pi communicates with the user, displaying all the necessary information.
+- So far, I have successfully set up the Raspberry Pi 4 and connected it to the monitor. I have also loaded the Raspberry Pi OS onto the SD card and successfully booted up the system. I have already installed MagicMirror², an open-source modular smart mirror platform, and am in the works of changing the UI.
+- One of the significant challenges I've faced was finding out which cable was the correct one for each input and output. For example, I connected the ethernet cable to the HDMI cable which surprisingly worked but showed the most unpleasant display. I later got help and realized I had to change it to the HDMI cable that I hadn't used yet.
+- To complete my project, the next steps involve physically assembling the Raspberry Pi, monitor, and two-way mirror into a single unit that maintains both functionality and aesthetic appeal. On the software side, I plan to customize the MagicMirror² interface to display useful modules, like the weather, news, calendar, and reminders.
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
