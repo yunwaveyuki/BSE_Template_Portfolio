@@ -73,7 +73,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Raspberry Pi 4 Starter Kid | The Raspberry Pi 4 is the hardware for the mirror | $119 | <a href="https://www.canakit.com/raspberry-pi-4-starter-kit.html"> Link </a> |
 |Acrylic Mirror|Reflective Surafacefor Smart Mirror|$15| <a href="https://www.amazon.com/Acrylic-Mirror-Sheets-Shatter-Resistant/dp/B08FR2W6M1/ref=sr_1_5?keywords=7+inch+2+way+mirror&qid=1687360352&sr=8-5"> Link </a> |
 | 7 inch case | Frame for the monitor | $12 | <a href="https://www.amazon.com/Longruner-Raspberry-Various-Systems-LSC7B-1/dp/B07KRX3QCQ/ref=pd_bxgy_vft_none_sccl_1/142-0985611-7894557?pd_rd_w=iX9Wr&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=M5D9MWHEWDJDJ7RF6NEH&pd_rd_wg=4ZJB4&pd_rd_r=d39acf82-1e09-4218-b1d1-e74f0d003902&pd_rd_i=B07KRX3QCQ&psc=1"> Link </a> |
-|USB Microphone|Micrphone for voice recognition|$8|:--:| <a href="https://www.amazon.com/Newest-YOUMI-Microphone-Laptop-desktop/dp/B01MQ2AA0X/ref=sr_1_5?crid=XFAUZ25ZOYNM&keywords=small+usb+microphone&qid=1687301728&sprefix=small+usb+microphon%2Caps%2C166&sr=8-5"> Link </a> |
+|USB Microphone|Micrphone for voice recognition|$8|<a href="https://www.amazon.com/Newest-YOUMI-Microphone-Laptop-desktop/dp/B01MQ2AA0X/ref=sr_1_5?crid=XFAUZ25ZOYNM&keywords=small+usb+microphone&qid=1687301728&sprefix=small+usb+microphon%2Caps%2C166&sr=8-5"> Link </a> ||
 |USB Speaker|Speaker for audio|$13|<a href="https://www.amazon.com/HONKYOB-Speaker-Computer-Multimedia-Notebook/dp/B075M7FHM1/ref=sr_1_5?crid=2RXCQXXI188X0&keywords=small+usb+speaker&qid=1687301696&sprefix=small+usb+speaker%2Caps%2C145&sr=8-5"> Link </a> |
 
 # Other Resources/Examples
