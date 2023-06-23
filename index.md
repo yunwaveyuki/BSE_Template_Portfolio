@@ -39,6 +39,7 @@ The Raspberry Pi 4 serves as the brain of the project, fetching and processing d
 - To complete my project, the next steps involve physically assembling the Raspberry Pi, monitor, and two-way mirror into a single unit that maintains both functionality and aesthetic appeal. On the software side, I plan to customize the MagicMirror² interface to display useful modules, like the weather, news, calendar, and reminders.
 
   ![First Roadblock](IMG_5715.jpg)
+  ![First Success](wev.jpg)
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
