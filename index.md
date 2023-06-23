@@ -21,9 +21,9 @@ For your final milestone, explain the outcome of your project. Key details to in
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Second Milestone
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
+Since the first milestone, I have made considerable strides in enhancing the functionality of my Magic Mirror project. My primary focus has been on integrating third-party modules to improve the utility and personalization of the device, as well as improving the overall visual aesthetics.
+- I've successfully integrated third-party modules such as the cryptocurrency, wifi qr code, and weather module to extend the capabilities of my Magic Mirror beyond the default MagicMirror features. The Wi-Fi QR Code module is a significant addition, creating a QR code displayed on the mirror's screen that allows guests to easily connect to our Wi-Fi network. Instead of sharing a Wi-Fi password verbally or via text, the user can simply scan the QR code to gain access to the network. Another module I've incorporated displays live cryptocurrency prices for Bitcoin, Ethereum, and Litecoin. This feature is especially useful for cryptocurrency enthusiasts like me, who wish to keep track of market fluctuations in real time. In addition to customizing the layout and appearance of these modules, I've also corrected the timezone to ensure the displayed information is accurate and timely.
+- A surprise that I encountered during this second week of my project was,
 - Previous challenges you faced that you overcame
 - What needs to be completed before your final milestone 
 
