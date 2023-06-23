@@ -38,6 +38,8 @@ The Raspberry Pi 4 serves as the brain of the project, fetching and processing d
 - One of the significant challenges I've faced was finding out which cable was the correct one for each input and output. For example, I connected the ethernet cable to the HDMI cable which surprisingly worked but showed the most unpleasant display. I later got help and realized I had to change it to the HDMI cable that I hadn't used yet.
 - To complete my project, the next steps involve physically assembling the Raspberry Pi, monitor, and two-way mirror into a single unit that maintains both functionality and aesthetic appeal. On the software side, I plan to customize the MagicMirror² interface to display useful modules, like the weather, news, calendar, and reminders.
 
+  ![First Roadblock](IMG_5715.jpg)
+
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://youtu.be/ivQNfdy_SU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
