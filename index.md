@@ -23,9 +23,10 @@ For your final milestone, explain the outcome of your project. Key details to in
 # Second Milestone
 Since the first milestone, I have made considerable strides in enhancing the functionality of my Magic Mirror project. My primary focus has been on integrating third-party modules to improve the utility and personalization of the device, as well as improving the overall visual aesthetics.
 - I've successfully integrated third-party modules such as the cryptocurrency, wifi qr code, and weather module to extend the capabilities of my Magic Mirror beyond the default MagicMirror features. The Wi-Fi QR Code creates a QR code displayed on the mirror's screen that allows guests to easily connect to our Wi-Fi network. Instead of sharing a Wi-Fi password verbally or via text, the user can simply scan the QR code to gain access to the network. Another module I've incorporated displays live cryptocurrency prices for Bitcoin, Ethereum, and Litecoin. This feature is especially useful for cryptocurrency enthusiasts like me, who wish to keep track of market fluctuations in real time. In addition to customizing the layout and appearance of these modules, I've also corrected the timezone to ensure the displayed information is accurate and timely.
-- A surprise that I encountered during this second week of my project was,
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+- A surprise that I encountered was the vast array of locations when trying to find the correct api key for the weather module. The list had locations that had the same names but different coordinates, so I had to research as carefully as possible.
+- In my first milestone, one major challenge was connecting the correct cables for the appropriate input and output. However, I've since familiarized ourselves with the hardware and overcome these initial difficulties.
+- Before reaching my final milestone, I still need to physically assemble the Raspberry Pi, monitor, and two-way mirror into a single, cohesive unit. I believe that the final device should not only be fully functional but should also maintain a pleasing aesthetic.
+
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
