@@ -109,8 +109,8 @@ let config = {
       module: "MMM-WiFiPassword",
       position: "bottom_right",
       config: {
-        network: "Kidsbedroom",
-        password: "0514Ryoyukikoki",
+        network: "Bedroom",
+        password: "xxxxxxxxx",
       }
     },
     {
