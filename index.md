@@ -27,6 +27,7 @@ Since the first milestone, I have made considerable strides in enhancing the fun
 - In my first milestone, one major challenge was connecting the correct cables for the appropriate input and output. However, I've since familiarized ourselves with the hardware and overcome these initial difficulties.
 - Before reaching my final milestone, I still need to physically assemble the Raspberry Pi, monitor, and two-way mirror into a single, cohesive unit. I believe that the final device should not only be fully functional but should also maintain a pleasing aesthetic.
 
+  ![First Roadblock](IMG_5776.jpg)
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
