@@ -1,4 +1,4 @@
-# Smart Mirror
+# Raspberry Pi Magic Mirror
 In this project, I designed and constructed a Smart Mirror using a Raspberry Pi 4. This ingenious device goes beyond a simple reflection; it delivers real-time updates on weather, news, reminders, and more, embedded subtly into the mirror's interface. As you explore my portfolio, imagine a mirror that doesn't just reflect your image, but also keeps you informed and organized, making your day a little bit smoother.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
