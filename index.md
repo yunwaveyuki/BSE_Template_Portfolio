@@ -53,80 +53,80 @@ Here's where you'll put your code. The syntax below places it into a block of co
 
 ```js
 let config = {
-  address: "localhost",
-  port: 8080,
-  basePath: "/",
-  ipWhitelist: ["127.0.0.1", "::ffff:127.0.0.1", "::1"],
-  useHttps: false,
-  httpsPrivateKey: "",
-  httpsCertificate: "",
-  language: "en",
-  locale: "en-US",
-  logLevel: ["INFO", "LOG", "WARN", "ERROR"],
-  timeFormat: 12,
-  units: "imperial",
-  modules: [
-    {
-      module: "alert",
-    },
-    {
-      module: "updatenotification",
-      position: "top_bar"
-    },
-    {
-      module: "clock",
-      position: "top_left"
-    },
-    {
-      module: "calendar",
-      header: "US Holidays",
-      position: "top_left",
-      config: {
-        calendars: [
-          {
-            symbol: "calendar-check",
-            url: "webcal://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics"
-          }
-        ]
-      }
-    },
-    {
-      module: "compliments",
-      position: "lower_third"
-    },
-    {
-      module: "MMM-3Day-Forecast",
-      position: "top_right",
-      config: {
-        api_key: "41440a1273ddddfdeae229bf83f1af2e",
-        lat: 37.3397352,
-        lon: -121.894958,
-        units: "M",
-        lang: "en",
-        interval: 900000
-      }
-    },
-    {
-      module: "MMM-WiFiPassword",
-      position: "bottom_right",
-      config: {
-        network: "Bedroom",
-        password: "xxxxxxxxx",
-      }
-    },
-    {
-      module: "MMM-CoinMarketCap",
-      position: "bottom_left",
-      header: "Cryptocurrencies",
-      config: {
-        apiKey: "62309cc4-b03f-4fb1-90d2-6e7e564bc169",
-        currencies: ["bitcoin", "ethereum", "litecoin", "ripple"],
-        view: "graphWithChanges",
-        conversion: "CAD"
-        // See below for more Configuration Options
-      }
-    }
-  ]
+  address: "localhost",
+  port: 8080,
+  basePath: "/",
+  ipWhitelist: ["127.0.0.1", "::ffff:127.0.0.1", "::1"],
+  useHttps: false,
+  httpsPrivateKey: "",
+  httpsCertificate: "",
+  language: "en",
+  locale: "en-US",
+  logLevel: ["INFO", "LOG", "WARN", "ERROR"],
+  timeFormat: 12,
+  units: "imperial",
+  modules: [
+    {
+      module: "alert",
+    },
+    {
+      module: "updatenotification",
+      position: "top_bar"
+    },
+    {
+      module: "clock",
+      position: "top_left"
+    },
+    {
+      module: "calendar",
+      header: "US Holidays",
+      position: "top_left",
+      config: {
+        calendars: [
+          {
+            symbol: "calendar-check",
+            url: "webcal://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics"
+          }
+        ]
+      }
+    },
+    {
+      module: "compliments",
+      position: "lower_third"
+    },
+    {
+      module: "MMM-3Day-Forecast",
+      position: "top_right",
+      config: {
+        api_key: "41440a1273ddddfdeae229bf83f1af2e",
+        lat: 37.3397352,
+        lon: -121.894958,
+        units: "M",
+        lang: "en",
+        interval: 900000
+      }
+    },
+    {
+      module: "MMM-WiFiPassword",
+      position: "bottom_right",
+      config: {
+        network: "YourNetworkName",
+        password: "YourPassword",
+      }
+    },
+    {
+      module: "MMM-CoinMarketCap",
+      position: "bottom_left",
+      header: "Cryptocurrencies",
+      config: {
+        apiKey: "62309cc4-b03f-4fb1-90d2-6e7e564bc169",
+        currencies: ["bitcoin", "ethereum", "litecoin", "ripple"],
+        view: "graphWithChanges",
+        conversion: "CAD"
+        <!-- See below for more Configuration Options -->
+      }
+    }
+  ]
 };
 
 module.exports = config;
