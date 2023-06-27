@@ -24,11 +24,11 @@ One of the biggest challenges was understanding and resolving hardware integrati
 My main focus has been on integrating third-party modules to improve the device's utility and personalization, while also giving attention to its visual aesthetics.
 
 -I'm excited to share that I have successfully integrated various third-party modules into my Magic Mirror. These include the cryptocurrency module, the Wi-Fi QR code module, and the weather module.
-By incorporating these modules, I have expanded the capabilities of my Magic Mirror beyond the default features provided by MagicMirrorÂ². For instance, the Wi-Fi QR Code module generates a QR code on the mirror's screen, allowing guests to effortlessly connect to our Wi-Fi network by simply scanning the code. This eliminates the need to verbally share the Wi-Fi password or send it via text.
+By incorporating these modules, I have expanded the capabilities of my Magic Mirror beyond the default features provided by MagicMirror². For instance, the Wi-Fi QR Code module generates a QR code on the mirror's screen, allowing guests to effortlessly connect to our Wi-Fi network by simply scanning the code. This eliminates the need to verbally share the Wi-Fi password or send it via text.
 
 -Additionally, I have integrated a module that displays real-time cryptocurrency prices for popular coins like Bitcoin, Ethereum, and Litecoin. This feature is particularly useful for cryptocurrency enthusiasts who want to stay updated on market fluctuations.
 
--To ensure seamless integration, I have also customized the layout and appearance of these modules. Furthermore, I have addressed the issue of incorrect timezones to ensure that the displayed information is always accurate and timely.
+-To ensure seamless integration, I have also customized the layout and appearance of these modules. Furthermore, I have addressed the issue of incorrect time zones to ensure that the displayed information is always accurate and timely.
 
 -Throughout this journey, I encountered an unexpected challenge when selecting the correct API key for the weather module. The provided list included locations with similar names but different coordinates. To overcome this hurdle, I conducted thorough research, ensuring that I selected the precise location settings.
 
