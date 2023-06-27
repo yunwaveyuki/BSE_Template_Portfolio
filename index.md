@@ -10,29 +10,32 @@ In this project, I designed and constructed a Smart Mirror using a Raspberry Pi 
 ![Headstone Image](logo.svg)
   
 # Final Milestone
--Since the last milestone, my Smart Mirror project has achieved significant progress. I successfully assembled the monitor case holder and two-way mirror into a single cohesive unit, that is both functional and visually appealing. I did this by tweaking around with I also tailored around the MagicMirror² interface to integrate Alexa into my smart mirror with the help of my small usb microphone and speaker.
-One of the biggest challenges was understanding and resolving hardware integration issues. I faced hurdles in correctly setting up the frame, case, and two-way mirror together during the initial stages which led to a few setbacks in time. However, overcoming these challenges has been a major triumph.
--This project provided me with a profound learning experience. It offered a deep dive into Raspberry Pi and its use in real-world projects, broadening my understanding of this powerful tool. I also gained practical experience in working with the MagicMirror² platform and discovered its potential in creating personalized smart devices. Learning about the integration of third-party modules, understanding their workings, and resolving potential conflicts also gave me hands-on experience with software customization and optimization.
--Building on what I've learned, I'm interested in further exploring how to add more functionality to the Magic Mirror. For instance, incorporating voice control or gesture recognition could make the mirror even more interactive and user-friendly.
+- Since the last milestone, my Smart Mirror project has achieved significant progress. I successfully assembled the monitor case holder and two-way mirror into a single cohesive unit, that is both functional and visually appealing. I did this by tweaking around with I also tailored around the MagicMirror² interface to integrate Alexa into my smart mirror with the help of my small usb microphone and speaker.
+  
+- One of the biggest challenges was understanding and resolving hardware integration issues. I faced hurdles in correctly setting up the frame, case, and two-way mirror together during the initial stages which led to a few setbacks in time. However, overcoming these challenges has been a major triumph.
+
+- This project provided me with a profound learning experience. It offered a deep dive into Raspberry Pi and its use in real-world projects, broadening my understanding of this powerful tool. I also gained practical experience in working with the MagicMirror² platform and discovered its potential in creating personalized smart devices. Learning about the integration of third-party modules, understanding their workings, and resolving potential conflicts also gave me hands-on experience with software customization and optimization.
+
+- Building on what I've learned, I'm interested in further exploring how to add more functionality to the Magic Mirror. For instance, incorporating voice control or gesture recognition could make the mirror even more interactive and user-friendly.
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Second Milestone
--Since achieving the first milestone, I have made significant strides in enhancing the functionality of my Magic Mirror project.
+- Since achieving the first milestone, I have made significant strides in enhancing the functionality of my Magic Mirror project.
 My main focus has been on integrating third-party modules to improve the device's utility and personalization, while also giving attention to its visual aesthetics.
 
--I'm excited to share that I have successfully integrated various third-party modules into my Magic Mirror. These include the cryptocurrency module, the Wi-Fi QR code module, and the weather module.
+- I'm excited to share that I have successfully integrated various third-party modules into my Magic Mirror. These include the cryptocurrency module, the Wi-Fi QR code module, and the weather module.
 By incorporating these modules, I have expanded the capabilities of my Magic Mirror beyond the default features provided by MagicMirror². For instance, the Wi-Fi QR Code module generates a QR code on the mirror's screen, allowing guests to effortlessly connect to our Wi-Fi network by simply scanning the code. This eliminates the need to verbally share the Wi-Fi password or send it via text.
 
--Additionally, I have integrated a module that displays real-time cryptocurrency prices for popular coins like Bitcoin, Ethereum, and Litecoin. This feature is particularly useful for cryptocurrency enthusiasts who want to stay updated on market fluctuations.
+- Additionally, I have integrated a module that displays real-time cryptocurrency prices for popular coins like Bitcoin, Ethereum, and Litecoin. This feature is particularly useful for cryptocurrency enthusiasts who want to stay updated on market fluctuations.
 
--To ensure seamless integration, I have also customized the layout and appearance of these modules. Furthermore, I have addressed the issue of incorrect time zones to ensure that the displayed information is always accurate and timely.
+- To ensure seamless integration, I have also customized the layout and appearance of these modules. Furthermore, I have addressed the issue of incorrect time zones to ensure that the displayed information is always accurate and timely.
 
--Throughout this journey, I encountered an unexpected challenge when selecting the correct API key for the weather module. The provided list included locations with similar names but different coordinates. To overcome this hurdle, I conducted thorough research, ensuring that I selected the precise location settings.
+- Throughout this journey, I encountered an unexpected challenge when selecting the correct API key for the weather module. The provided list included locations with similar names but different coordinates. To overcome this hurdle, I conducted thorough research, ensuring that I selected the precise location settings.
 
--In my initial milestone, I faced a major challenge in correctly connecting the cables for the appropriate input and output. However, I have now become well-acquainted with the hardware and successfully overcome these initial difficulties.
+- In my initial milestone, I faced a major challenge in correctly connecting the cables for the appropriate input and output. However, I have now become well-acquainted with the hardware and successfully overcome these initial difficulties.
 
   ![First Roadblock](IMG_5776.jpg)
 
@@ -40,17 +43,17 @@ By incorporating these modules, I have expanded the capabilities of my Magic Mir
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l_N8yBcJbkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # First Milestone
--For my first milestone, the objective was to set up the Raspberry Pi and the monitor. The Raspberry Pi 4 serves as the central processing unit, responsible for fetching and processing data from various sources. Meanwhile, the monitor serves as the interface through which the Raspberry Pi communicates with the user, displaying all the necessary information.
+- For my first milestone, the objective was to set up the Raspberry Pi and the monitor. The Raspberry Pi 4 serves as the central processing unit, responsible for fetching and processing data from various sources. Meanwhile, the monitor serves as the interface through which the Raspberry Pi communicates with the user, displaying all the necessary information.
 
--I am pleased to share that I have successfully completed the setup process for the Raspberry Pi 4 and have connected it to the monitor. Furthermore, I have successfully loaded the Raspberry Pi OS onto the SD card and successfully booted up the system.
+- I am pleased to share that I have successfully completed the setup process for the Raspberry Pi 4 and have connected it to the monitor. Furthermore, I have successfully loaded the Raspberry Pi OS onto the SD card and successfully booted up the system.
 
--As part of the setup, I have also installed MagicMirror², an open-source modular smart mirror platform, and I am currently in the process of modifying the user interface to align with my desired vision.
+- As part of the setup, I have also installed MagicMirror², an open-source modular smart mirror platform, and I am currently in the process of modifying the user interface to align with my desired vision.
 
--During this milestone, I encountered a significant challenge in identifying the correct cables for each input and output. In one instance, I mistakenly connected the Ethernet cable to the HDMI port, which resulted in a rather unpleasant display. However, with the guidance and assistance I received, I realized my error and rectified it by connecting the unused HDMI cable instead.
+- During this milestone, I encountered a significant challenge in identifying the correct cables for each input and output. In one instance, I mistakenly connected the Ethernet cable to the HDMI port, which resulted in a rather unpleasant display. However, with the guidance and assistance I received, I realized my error and rectified it by connecting the unused HDMI cable instead.
 
--Moving forward, the completion of my project entails physically assembling the Raspberry Pi, monitor, and two-way mirror into a unified unit that seamlessly combines functionality and aesthetic appeal. On the software front, my plan is to further customize the MagicMirror² interface, incorporating useful modules such as weather updates, news feeds, calendar integration, and reminders.
+- Moving forward, the completion of my project entails physically assembling the Raspberry Pi, monitor, and two-way mirror into a unified unit that seamlessly combines functionality and aesthetic appeal. On the software front, my plan is to further customize the MagicMirror² interface, incorporating useful modules such as weather updates, news feeds, calendar integration, and reminders.
 
--With each milestone achieved, I am getting closer to realizing the full potential of my Magic Mirror project. I remain committed to ensuring a polished and sophisticated final result that not only fulfills its intended purpose but also captivates and enhances the user's experience.
+- With each milestone achieved, I am getting closer to realizing the full potential of my Magic Mirror project. I remain committed to ensuring a polished and sophisticated final result that not only fulfills its intended purpose but also captivates and enhances the user's experience.
 
 
   ![First Roadblock](IMG_5715.jpg)
