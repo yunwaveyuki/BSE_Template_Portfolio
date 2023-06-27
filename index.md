@@ -10,11 +10,10 @@ In this project, I designed and constructed a Smart Mirror using a Raspberry Pi 
 ![Headstone Image](logo.svg)
   
 # Final Milestone
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+-Since the last milestone, my Smart Mirror project has achieved significant progress. I successfully assembled the monitor case holder and two-way mirror into a single cohesive unit, that is both functional and visually appealing. I also tailored around with the MagicMirror² interface to integrate Alexa into my smart mirror with the help of my small usb microphone and speaker.
+One of the biggest challenges was understanding and resolving hardware integration issues. I faced hurdles in correctly setting up the frame, case, and two-way mirror together during the initial stages which led to a few setbacks in time. However, overcoming these challenges has been a major triumph.
+-This project provided me a profound learning experience. It offered a deep dive into Raspberry Pi and its use in real-world projects, broadening my understanding of this powerful tool. I also gained practical experience in working with the MagicMirror² platform and discovered its potential in creating personalized smart devices. Learning about the integration of third-party modules, understanding their workings, and resolving potential conflicts also gave me hands-on experience with software customization and optimization.
+-Building on what I've learned, I'm interested in further exploring how to add more functionality to the Magic Mirror. For instance, incorporating voice control or gesture recognition could make the mirror even more interactive and user-friendly.
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
