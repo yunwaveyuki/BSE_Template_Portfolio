@@ -40,13 +40,18 @@ By incorporating these modules, I have expanded the capabilities of my Magic Mir
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l_N8yBcJbkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # First Milestone
-For my first milestone, I intended to set up the raspberry pi and the monitor. The Raspberry Pi 4 serves as the brain of the project, fetching and processing data from various sources. The monitor is the channel through which the Raspberry Pi communicates with the user, displaying all the necessary information.
+For my first milestone, the objective was to set up the Raspberry Pi and the monitor. The Raspberry Pi 4 serves as the central processing unit, responsible for fetching and processing data from various sources. Meanwhile, the monitor serves as the interface through which the Raspberry Pi communicates with the user, displaying all the necessary information.
 
-- So far, I have successfully set up the Raspberry Pi 4 and connected it to the monitor. I have also loaded the Raspberry Pi OS onto the SD card and successfully booted up the system. I have already installed MagicMirror², an open-source modular smart mirror platform, and am in the works of changing the UI.
-  
-- One of the significant challenges I've faced was finding out which cable was the correct one for each input and output. For example, I connected the ethernet cable to the HDMI cable which surprisingly worked but showed the most unpleasant display. I later got help and realized I had to change it to the HDMI cable that I hadn't used yet.
-  
-- To complete my project, the next steps involve physically assembling the Raspberry Pi, monitor, and two-way mirror into a single unit that maintains both functionality and aesthetic appeal. On the software side, I plan to customize the MagicMirror² interface to display useful modules, like the weather, news, calendar, and reminders.
+-I am pleased to share that I have successfully completed the setup process for the Raspberry Pi 4 and have connected it to the monitor. Furthermore, I have successfully loaded the Raspberry Pi OS onto the SD card and successfully booted up the system.
+
+-As part of the setup, I have also installed MagicMirror², an open-source modular smart mirror platform, and I am currently in the process of modifying the user interface to align with my desired vision.
+
+-During this milestone, I encountered a significant challenge in identifying the correct cables for each input and output. In one instance, I mistakenly connected the Ethernet cable to the HDMI port, which resulted in a rather unpleasant display. However, with the guidance and assistance I received, I realized my error and rectified it by connecting the unused HDMI cable instead.
+
+-Moving forward, the completion of my project entails physically assembling the Raspberry Pi, monitor, and two-way mirror into a unified unit that seamlessly combines functionality and aesthetic appeal. On the software front, my plan is to further customize the MagicMirror² interface, incorporating useful modules such as weather updates, news feeds, calendar integration, and reminders.
+
+-With each milestone achieved, I am getting closer to realizing the full potential of my Magic Mirror project. I remain committed to ensuring a polished and sophisticated final result that not only fulfills its intended purpose but also captivates and enhances the user's experience.
+
 
   ![First Roadblock](IMG_5715.jpg)
   ![First Success](wev.jpg)
