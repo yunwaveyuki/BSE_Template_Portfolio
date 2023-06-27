@@ -40,7 +40,7 @@ By incorporating these modules, I have expanded the capabilities of my Magic Mir
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l_N8yBcJbkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # First Milestone
--For my first milestone, I intended to set up the raspberry pi and the monitor. The Raspberry Pi 4 serves as the brain of the project, fetching and processing data from various sources. The monitor is the channel through which the Raspberry Pi communicates with the user, displaying all the necessary information.
+For my first milestone, I intended to set up the raspberry pi and the monitor. The Raspberry Pi 4 serves as the brain of the project, fetching and processing data from various sources. The monitor is the channel through which the Raspberry Pi communicates with the user, displaying all the necessary information.
 
 - So far, I have successfully set up the Raspberry Pi 4 and connected it to the monitor. I have also loaded the Raspberry Pi OS onto the SD card and successfully booted up the system. I have already installed MagicMirror², an open-source modular smart mirror platform, and am in the works of changing the UI.
   
