@@ -149,6 +149,23 @@ let config = {
 };
 
 module.exports = config;
+
+-----------------------------------------------------------------------------------------------------------------------------
+module: "alert": This is the default alert module for MagicMirror² that allows other modules to send notifications to alert the user.
+
+module: "updatenotification": This module is positioned at the top bar. It checks if there are updates available for your MagicMirror² application.
+
+module: "clock": This module is placed at the top left. As the name suggests, it displays the current time.
+
+module: "calendar": This module, also positioned at the top left, displays a calendar with US Holidays. It fetches data from an iCalendar (ics) file provided in the URL. The symbol: "calendar-check" will display a specified icon next to each event.
+
+module: "compliments": Placed in the lower third of the screen, this module shows random compliments to the user at different times of the day.
+
+module: "MMM-3Day-Forecast": This module, positioned at the top right, uses an API key to fetch a 3-day weather forecast for a specified latitude and longitude. It updates at an interval of 900,000 milliseconds, or 15 minutes.
+
+module: "MMM-WiFiPassword": Positioned at the bottom right, this module displays a QR code for connecting to your specified Wi-Fi network. By scanning the QR code with a smartphone, users can connect to the Wi-Fi network without needing to type the password.
+
+module: "MMM-CoinMarketCap": Positioned at the bottom left, this module displays live price updates for specified cryptocurrencies (Bitcoin, Ethereum, Litecoin, Ripple). The information is displayed as a graph with changes, and currency conversion is set to Canadian Dollars (CAD).
 ```
 
 # Bill of Materials
