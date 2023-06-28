@@ -37,7 +37,7 @@ By incorporating these modules, I have expanded the capabilities of my Magic Mir
 
 - In my initial milestone, I faced a major challenge in correctly connecting the cables for the appropriate input and output. However, I have now become well-acquainted with the hardware and successfully overcome these initial difficulties.
 
-  ![First Roadblock](IMG_5776.jpg)
+<img src="IMG_5776.jpg" width="500">
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l_N8yBcJbkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
