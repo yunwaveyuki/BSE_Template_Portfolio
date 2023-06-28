@@ -55,17 +55,15 @@ By incorporating these modules, I have expanded the capabilities of my Magic Mir
 
 - With each milestone achieved, I am getting closer to realizing the full potential of my Magic Mirror project. I remain committed to ensuring a polished and sophisticated final result that not only fulfills its intended purpose but also captivates and enhances the user's experience.
 
-
-  ![First Roadblock](IMG_5715.jpg)
-  ![First Success](wev.jpg)
-
+<img src="IMG_5715.jpg" width="560">
+<img src="wev.jpg" width="560">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ivQNfdy_SU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
-![Schematic](wefw.jpg)
+<img src="wefw.jpg" width="560">
 
 # Code
 This is my config.js for the smart mirror with a brief explanation for each module.
