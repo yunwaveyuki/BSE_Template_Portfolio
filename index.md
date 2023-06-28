@@ -68,7 +68,7 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 ![Schematic](wefw.jpg)
 
 # Code
-This is my config.js for the smart mirror
+This is my config.js for the smart mirror with a brief explanation for each module.
 
 ```js
 let config = {
