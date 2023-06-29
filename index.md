@@ -5,8 +5,6 @@ In this project, I designed and constructed a Smart Mirror using a Raspberry Pi 
 |:--:|:--:|:--:|:--:|
 | Yuki O. | Evergreen Valley High School | Engineering | Incoming Junior
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
-
 <img src="IMG_5801.jpg" width="560">
 
   
@@ -21,7 +19,7 @@ In this project, I designed and constructed a Smart Mirror using a Raspberry Pi 
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<img src="IMG_5796.jpg" width="560">
+<img src="IMG_5795.jpg" width="560">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
