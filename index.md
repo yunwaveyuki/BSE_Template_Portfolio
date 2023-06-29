@@ -17,8 +17,6 @@ In this project, I designed and constructed a Smart Mirror using a Raspberry Pi 
 
 - Building on what I've learned, I'm interested in further exploring how to add more functionality to the Magic Mirror. For instance, incorporating voice control or gesture recognition could make the mirror even more interactive and user-friendly.
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
 <img src="IMG_5795.jpg" width="560">
 
 <iframe width="560" height="315" src="https://youtu.be/RmvWkA4qCiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
