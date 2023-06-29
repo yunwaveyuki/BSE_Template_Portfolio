@@ -9,7 +9,7 @@ In this project, I designed and constructed a Smart Mirror using a Raspberry Pi 
 
   
 # Final Milestone
-- Since the last milestone, my Smart Mirror project has achieved significant progress. I successfully assembled the monitor case holder and two-way mirror into a single cohesive unit, that is both functional and visually appealing. I did this by tweaking around with I also tailored around the MagicMirror² interface to integrate Alexa into my smart mirror with the help of my small usb microphone and speaker.
+- Since the last milestone, my Smart Mirror project has achieved significant progress. I successfully assembled the monitor case holder and two-way mirror into a single cohesive unit, that is both functional and visually appealing.
   
 - One of the biggest challenges was understanding and resolving hardware integration issues. I faced hurdles in correctly setting up the frame, case, and two-way mirror together during the initial stages which led to a few setbacks in time. However, overcoming these challenges has been a major triumph.
 
