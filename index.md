@@ -19,7 +19,7 @@ In this project, I designed and constructed a Smart Mirror using a Raspberry Pi 
 
 <img src="IMG_5795.jpg" width="560">
 
-<iframe width="560" height="315" src="https://youtu.be/RmvWkA4qCiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RmvWkA4qCiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Second Milestone
 - Since achieving the first milestone, I have made significant strides in enhancing the functionality of my Magic Mirror project.
