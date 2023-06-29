@@ -7,7 +7,8 @@ In this project, I designed and constructed a Smart Mirror using a Raspberry Pi 
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
-![Headstone Image](logo.svg)
+<img src="IMG_5801.jpg" width="560">
+
   
 # Final Milestone
 - Since the last milestone, my Smart Mirror project has achieved significant progress. I successfully assembled the monitor case holder and two-way mirror into a single cohesive unit, that is both functional and visually appealing. I did this by tweaking around with I also tailored around the MagicMirror² interface to integrate Alexa into my smart mirror with the help of my small usb microphone and speaker.
@@ -19,6 +20,8 @@ In this project, I designed and constructed a Smart Mirror using a Raspberry Pi 
 - Building on what I've learned, I'm interested in further exploring how to add more functionality to the Magic Mirror. For instance, incorporating voice control or gesture recognition could make the mirror even more interactive and user-friendly.
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+
+<img src="IMG_5796.jpg" width="560">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -37,7 +40,7 @@ By incorporating these modules, I have expanded the capabilities of my Magic Mir
 
 - In my initial milestone, I faced a major challenge in correctly connecting the cables for the appropriate input and output. However, I have now become well-acquainted with the hardware and successfully overcome these initial difficulties.
 
-<img src="IMG_5776.jpg" width="560">
+<img src="new1.jpg" width="560">
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l_N8yBcJbkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -55,7 +58,6 @@ By incorporating these modules, I have expanded the capabilities of my Magic Mir
 
 - With each milestone achieved, I am getting closer to realizing the full potential of my Magic Mirror project. I remain committed to ensuring a polished and sophisticated final result that not only fulfills its intended purpose but also captivates and enhances the user's experience.
 
-<img src="IMG_5715.jpg" width="560">
 <img src="wev.jpg" width="560">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ivQNfdy_SU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -63,7 +65,7 @@ By incorporating these modules, I have expanded the capabilities of my Magic Mir
 # Schematics 
 This is a deconstructed model of the smart mirror.
 
-<img src="wefw.jpg" width="560">
+<img src="IMG_5710" width="560">
 
 # Code
 This is my config.js for the smart mirror with a brief explanation for each module.
