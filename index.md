@@ -56,14 +56,14 @@ By incorporating these modules, I have expanded the capabilities of my Magic Mir
 
 - With each milestone achieved, I am getting closer to realizing the full potential of my Magic Mirror project. I remain committed to ensuring a polished and sophisticated final result that not only fulfills its intended purpose but also captivates and enhances the user's experience.
 
-<img src=IMG_5710.jpg" width="560">
+<img src="IMG_5710.jpg" width="560">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ivQNfdy_SU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Schematics 
 This is a deconstructed model of the smart mirror.
 
-<img src="IMG_5710.jpg" width="560">
+<img src="wefw.jpg" width="560">
 
 # Code
 This is my config.js for the smart mirror with a brief explanation for each module.
