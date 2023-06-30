@@ -5,8 +5,9 @@ In this project, I designed and constructed a Smart Mirror using a Raspberry Pi 
 |:--:|:--:|:--:|:--:|
 | Yuki O. | Evergreen Valley High School | Engineering | Incoming Junior
 
-<img src="IMG_5801.jpg" width="560">
-
+<div align="center">
+  <img src="IMG_5801.jpg" width="560">
+</div>
   
 # Final Milestone
 - Since the last milestone, my Smart Mirror project has achieved significant progress. I successfully assembled the monitor case holder and two-way mirror into a single cohesive unit, that is both functional and visually appealing.
@@ -17,9 +18,13 @@ In this project, I designed and constructed a Smart Mirror using a Raspberry Pi 
 
 - Building on what I've learned, I'm interested in further exploring how to add more functionality to the Magic Mirror. For instance, incorporating voice control or gesture recognition could make the mirror even more interactive and user-friendly.
 
-<img src="IMG_5795.jpg" width="560">
+<div align="center">
+  <img src="IMG_5795.jpg" width="560">
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RmvWkA4qCiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/RmvWkA4qCiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 # Second Milestone
 - Since achieving the first milestone, I have made significant strides in enhancing the functionality of my Magic Mirror project.
@@ -36,10 +41,13 @@ By incorporating these modules, I have expanded the capabilities of my Magic Mir
 
 - In my initial milestone, I faced a major challenge in correctly connecting the cables for the appropriate input and output. However, I have now become well-acquainted with the hardware and successfully overcome these initial difficulties.
 
-<img src="new1.jpg" width="560">
+<div align="center">
+  <img src="new1.jpg" width="560">
+</div>
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l_N8yBcJbkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/l_N8yBcJbkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 # First Milestone
 - For my first milestone, the objective was to set up the Raspberry Pi and the monitor. The Raspberry Pi 4 serves as the central processing unit, responsible for fetching and processing data from various sources. Meanwhile, the monitor serves as the interface through which the Raspberry Pi communicates with the user, displaying all the necessary information.
@@ -54,14 +62,20 @@ By incorporating these modules, I have expanded the capabilities of my Magic Mir
 
 - With each milestone achieved, I am getting closer to realizing the full potential of my Magic Mirror project. I remain committed to ensuring a polished and sophisticated final result that not only fulfills its intended purpose but also captivates and enhances the user's experience.
 
-<img src="IMG_5710.jpg" width="560">
+<div align="center">
+  <img src="IMG_5710.jpg" width="560">
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ivQNfdy_SU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ivQNfdy_SU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 # Schematics 
 This is a deconstructed model of the smart mirror.
 
-<img src="wefw.jpg" width="560">
+<div align="center">
+  <img src="wefw.jpg" width="560">
+</div>
 
 # Code
 This is my config.js for the smart mirror with a brief explanation for each module.
